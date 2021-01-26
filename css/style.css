@@ -1,0 +1,45 @@
+#map {
+  height  : 95%;
+}
+
+#map-section {
+  height           : 75%;
+  padding          : 0.75rem;
+  background-color : #1fbcbc;
+}
+
+#content {
+  background-color : #e0e2e4;
+}
+
+#text1, #text2 {  
+  background-color : #0a0c0c;
+  color            : white;
+}
+
+#text1, #text2, #scaleText {
+  text-align : justify;
+}
+
+#title { 
+  height           : 6%;
+  margin           : 0;
+  padding          : 0;
+  text-align       : center;
+  color            : white;
+  background-color : #141617;
+}
+
+h3 {
+  color : #87bdd8;
+}
+
+html, body {
+  height  : 100%;
+}
+h2 {
+ background-color  : #87bdd8;
+}
+h6 {
+ color  : #141617;
+}
